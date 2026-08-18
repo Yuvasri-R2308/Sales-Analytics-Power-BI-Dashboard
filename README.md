@@ -1,4 +1,4 @@
-# Sales Analytics Power BI Dashboard
+#📈 Sales Analytics Power BI Dashboard
 
 A Power BI dashboard created to understand sales and order data in a simple and interactive way.
 
@@ -27,7 +27,7 @@ The dashboard provides an overview of sales performance and helps identify patte
 * Stock information
 * Interactive Power BI visualizations
 
-## Technologies Used
+##🛠️Technologies Used
 
 * Power BI
 * SQL Server
