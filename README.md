@@ -2,7 +2,7 @@
 
 A Power BI dashboard created to understand sales and order data in a simple and interactive way.
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview
 
 <p align="center">
   <img src="Dashboard.png" width="900">
@@ -53,5 +53,7 @@ Sales-Analytics-PowerBI-Dashboard/
 ## 👩‍💻 Author
 
 **Yuvasri R**
+
 B.Tech Information Technology
+
 St. Joseph's College of Engineering
