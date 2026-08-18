@@ -1,4 +1,4 @@
-#📈 Sales Analytics Power BI Dashboard
+📈 Sales Analytics Power BI Dashboard
 
 A Power BI dashboard created to understand sales and order data in a simple and interactive way.
 
@@ -35,9 +35,9 @@ The dashboard provides an overview of sales performance and helps identify patte
 * Power Query
 * GitHub
 
-## Key Areas Analyzed
+##🔍Key Areas Analyzed
 
-### Sales Performance
+### 🧮Sales Performance
 
 The dashboard shows overall sales and daily sales trends to understand how sales change over time.
 
